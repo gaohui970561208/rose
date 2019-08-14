@@ -1,0 +1,14 @@
+{
+    "static":{
+        "css":{
+            "css/all.css":[
+                "css/rose.less"
+            ]
+        },
+        "js":{
+            "js/all.js":[
+                "js/rose.js"
+            ]
+        }
+    }
+}
